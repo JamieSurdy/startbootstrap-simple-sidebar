@@ -48,28 +48,47 @@
     margin-right: -250px;
 }
 
+.row-fluid{
+    background-color:blue;
+}
+
 .work{
     background-color: blue;
     width:80%;
+    min-height:30%;
     margin: 0 auto;
+
 }
+.middleRow{
+     .col-xs-6 .col-sm-4;
+
+}
+
 
 .process{
     background-color: yellow;
     width:20%;
     margin: 0 auto;
+   
 }
 
 .experience{
     background-color: yellow;
     width:20%;
     margin: 0 auto;
+   
 }
 
 .funStuff{
     background-color: yellow;
     width:20%;
     margin: 0 auto;
+    
+}
+
+.bottomRow{
+    .col-xs-6 .col-sm-4;
+
 }
 
 .blog{
@@ -88,7 +107,7 @@
 
 /*logo*/
 #sidebar-wrapper #logo a img{
-    margin-top:30%;
+    margin-top:10%;
 }
 
 .sidebar-nav {
