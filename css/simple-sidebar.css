@@ -48,60 +48,6 @@
     margin-right: -250px;
 }
 
-.row-fluid{
-    background-color:blue;
-}
-
-.work{
-    background-color: blue;
-    width:80%;
-    min-height:30%;
-    margin: 0 auto;
-
-}
-.middleRow{
-     .col-xs-6 .col-sm-4;
-
-}
-
-
-.process{
-    background-color: yellow;
-    width:20%;
-    margin: 0 auto;
-   
-}
-
-.experience{
-    background-color: yellow;
-    width:20%;
-    margin: 0 auto;
-   
-}
-
-.funStuff{
-    background-color: yellow;
-    width:20%;
-    margin: 0 auto;
-    
-}
-
-.bottomRow{
-    .col-xs-6 .col-sm-4;
-
-}
-
-.blog{
-    background-color: green;
-    width:35%;
-    margin: 0 auto;
-}
-
-.contact{
-    background-color: green;
-    width:35%;
-    margin: 0 auto;
-}
 
 /* Sidebar Styles */
 
@@ -136,7 +82,7 @@ li.sidebar-image a img{
     text-decoration: none;
     color: #999999;
     margin-left:10%;
-    font-size:2rem;
+    font-size:16px;
 
 }
 
